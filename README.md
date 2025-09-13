@@ -2,6 +2,12 @@
 
 Projekt stworzony w celu nauki **Tailwind CSS** poprzez praktyczne ćwiczenie i wdrożenie jego klas w rzeczywistej aplikacji. Blog skierowany jest do pasjonatów roślin i prezentuje przykładowe treści w formie artykułów, nagłówków, układów stron i komponentów.
 
+## 📸 Podgląd projektu  
+![Podgląd projektu](./img/preview.png)  
+
+## 🌍 Demo  
+🔗 [Zobacz projekt na GitHub Pages](https://marwoz01.github.io/plant-enthusiasts-blog/)  
+
 ## 🎯 Cel projektu  
 - Poznanie i wdrożenie klas Tailwind CSS  
 - Ćwiczenie responsywności i layoutów z użyciem Flexboxa i Grid  
@@ -33,9 +39,3 @@ Projekt obejmuje zastosowanie następujących zagadnień Tailwind CSS:
 - Podstawowe elementy typografii (nagłówki, akapity, cytaty)  
 - Układ mobilny i desktopowy (responsive)  
 - Zastosowanie modifierów (hover, active) do interakcji  
-
-## 🌍 Demo  
-🔗 [Zobacz projekt na GitHub Pages](https://marwoz01.github.io/plant-enthusiasts-blog/)  
-
-## 📸 Podgląd projektu  
-![Podgląd projektu](./img/preview.png)  
