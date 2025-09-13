@@ -38,4 +38,4 @@ Projekt obejmuje zastosowanie następujących zagadnień Tailwind CSS:
 🔗 [Zobacz projekt na GitHub Pages](https://marwoz01.github.io/plant-enthusiasts-blog/)  
 
 ## 📸 Podgląd projektu  
-![Podgląd projektu](./assets/preview.png)  
+![Podgląd projektu](./img/preview.png)  
